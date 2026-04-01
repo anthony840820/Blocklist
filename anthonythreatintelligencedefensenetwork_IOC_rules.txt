@@ -1,19 +1,7 @@
 ||08qodmaloshm5zrwhww.xyz^
 ||0xax86xdizce7kg9cpdk.online^
-||105-229-60-72.south.dsl.telkomsa.net^
-||108-253-10-175.lightspeed.jcvlfl.sbcglobal.net^
-||112-68-173-95f1.hyg1.eonet.ne.jp^
-||116.sub-72-115-118.myvzw.com^
 ||1270001.fit^
-||129-205-135-99.dynamic.macrolan.co.za^
-||157.qarestr.sub-174-39-147.myvzw.com^
-||176-150-44-244.abo.bbox.fr^
-||177-168-62-38.user.vivozap.com.br^
-||186-231-21-245.ded.intelignet.com.br^
-||191-160-169-181.fibertel.com.ar^
-||192.146.46.187.isp.timbrasil.com.br^
 ||1a298k7iqspq52l4r9e.space^
-||201.160.194.94.cable.dyn.cableonline.com.mx^
 ||2ndline.cfd^
 ||4kkaxgfdw7l1yvv4t9v.com^
 ||66852z.com^
@@ -132,7 +120,6 @@
 ||cloudstore.cam^
 ||cmail3.brightsnappz.com^
 ||cms.spaceyou.o-r.kr^
-||comlu.com^
 ||comm.secmailsvc.com^
 ||commit.hanbiro.o-r.kr^
 ||conectiong.com^
@@ -319,7 +306,6 @@
 ||mx.zxopfds.com^
 ||nationalinterestparty.com^
 ||nc7d8p7u8j3n4hgm.com^
-||net84.net^
 ||new.manulpads.com^
 ||newdomain.ddns.net^
 ||newforsomething.rest^
