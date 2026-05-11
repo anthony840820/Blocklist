@@ -13,26 +13,6 @@
 ||abuse.leotolstoys.com^
 ||accopsdc.vpndns.net^
 ||aceeyl.com^
-||aegohaohuoruitiiel.co^
-||aegohaohuoruitiiem.to^
-||aegohaohuoruitiier.su^
-||aegohaohuoruitiies.top^
-||aegohaohuoruitiieu.cc^
-||aegohaohuoruitiiez.io^
-||aeifaeifhutuhuhusl.co^
-||aeifaeifhutuhuhusm.to^
-||aeifaeifhutuhuhusr.su^
-||aeifaeifhutuhuhuss.top^
-||aeifaeifhutuhuhusu.cc^
-||aeifaeifhutuhuhusz.io^
-||aeoughaoheguaoehdl.co^
-||aeoughaoheguaoehdm.to^
-||aeoughaoheguaoehdr.su^
-||aeoughaoheguaoehds.top^
-||aeoughaoheguaoehdu.cc^
-||aeoughaoheguaoehdz.io^
-||aeufuaehfiuehfuhfl.co^
-||aeufuaehfiuehfuhfm.to^
 ||afdwtyy38efzk.app^
 ||airtel.vpndns.net^
 ||althouqroastery.com^
@@ -105,8 +85,10 @@
 ||comm.secmailsvc.com^
 ||commit.hanbiro.o-r.kr^
 ||conectiong.com^
+||conniterot.com^
 ||contact.onenote-service.com^
 ||control.developgram.online^
+||cranetisti.com^
 ||creatday.com^
 ||creativepackout.co^
 ||crossfitolathe.com^
@@ -117,6 +99,7 @@
 ||ddspadus.com^
 ||deks.hoapirox.com^
 ||deo.shopeemobile.org^
+||dicarkadar.com^
 ||discoverlive.site^
 ||dmailnas.com^
 ||dnsd.dnstimename.com^
@@ -152,6 +135,8 @@
 ||ffs.hoapirox.com^
 ||filetrasfer.wuaze.com^
 ||finder.giize.com^
+||flagration.pw^
+||forsynanchyv.com^
 ||fr-aide.me^
 ||fruitbrat.com^
 ||game.sunrise.giize.com^
@@ -165,6 +150,7 @@
 ||gowikipeai.space^
 ||graduate.kozow.com^
 ||gs9uuz4h0510qhob.io^
+||gugafirst.top^
 ||gw.munhwa.o-r.kr^
 ||handigarh.guru^
 ||handokbaghouse.com^
@@ -190,6 +176,7 @@
 ||infocom.nassichlltochik.com^
 ||infuture.pro^
 ||innlive.in^
+||intesteron.com^
 ||intra.hiperxrp.o-r.kr^
 ||intranet.forensicare.online^
 ||ir.plugins-wordpress.com^
@@ -216,6 +203,7 @@
 ||link.contele.info^
 ||link.plugins-wordpress.com^
 ||linuxwd.com^
+||litellusef.com^
 ||live.storemircosoft.com^
 ||load.icloudfare.o-r.kr^
 ||load.shapcloud.o-r.kr^
@@ -236,7 +224,9 @@
 ||mail.winmigmail.com^
 ||majicbus.org^
 ||managedetail.giize.com^
-||meidusa.cn^
+||marakusta.at^
+||matchippsi.com^
+||mediaterki.com^
 ||microsoft.kiwi.nz^
 ||microsoft.natcommunzu.com^
 ||mimosa.gleeze.com^
@@ -301,6 +291,7 @@
 ||safe-dns.it.com^
 ||safeprotect.freeddns.org^
 ||sbc-asterisk.tftpd.net^
+||scotiation.pw^
 ||securitynet.live^
 ||seemysitelive.store^
 ||self-dns.it.com^
@@ -326,7 +317,6 @@
 ||spam.suwaccqi.com^
 ||sparkwebsolutions.space^
 ||spf.manulpads.com^
-||srlaptop.com^
 ||sso.kaonicloud.o-r.kr^
 ||sso.nanotim.o-r.kr^
 ||sso.pumtech.o-r.kr^
@@ -345,10 +335,8 @@
 ||time.dnstimename.com^
 ||time.kcube.o-r.kr^
 ||tk.doguturkistan.online^
-||tldrbox.top^
 ||tls.sharesoffices.com^
 ||tm.neolan.org^
-||trad-einmyus.com^
 ||treaids.com^
 ||tyitgr.meinwg.com^
 ||ud.cwisuz.com^
