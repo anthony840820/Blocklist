@@ -1,0 +1,11 @@
+venv/
+cron_debug.log
+debug_csv.py
+main_processor.py
+full_scan.py
+run_scan.py
+update_logic.sh
+speedtest.*
+teamt5_rules.txt
+__pycache__/
+*.pyc
